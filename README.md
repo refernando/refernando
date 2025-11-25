@@ -1,8 +1,6 @@
 ### Olá 👋
 
-🚧 Perfil em construção.
-
-Que tal ver meu portfólio enquanto isso?
+🌐 Veja meu portfólio:
 - https://renansilva.pages.dev
 <!--
 **refernando/refernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
